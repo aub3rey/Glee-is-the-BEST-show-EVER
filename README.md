@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Gleek is Chic</title>
-  </head>
   <body>
 <h1>Why <em>Glee</em> Truly is a Cinematic Masterpiece</h1>
-A <b>total</b> review of the FOX's top show in 2009-2015
 <br>
 <p align="center">
   <img src="https://live.staticflickr.com/4152/4999957037_63c8022ff5_c.jpg">
 </p>
+<br>
+A <b>total</b> review of the FOX's top show in 2009-2015
 <h2> Select a Season </h2>
  <p align="center">
   <img src="https://o.remove.bg/downloads/9a4fb1ee-25b7-4187-8385-feaca9f5f862/image-removebg-preview-removebg-preview.png" width="230" height="250">
