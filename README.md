@@ -1,5 +1,11 @@
-# Why *Glee* Truly is a Cinematic **Masterpiece**
-A **total** review of the FOX's top show in 2009-2015
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Gleek is Chic</title>
+  </head>
+  <body>
+<h1>Why <em>Glee</em> Truly is a Cinematic Masterpiece</h1>
+A <b>total</b> review of the FOX's top show in 2009-2015
 <br>
 <p align="center">
   <img src="https://live.staticflickr.com/4152/4999957037_63c8022ff5_c.jpg">
@@ -15,3 +21,6 @@ A **total** review of the FOX's top show in 2009-2015
 </p>
 <h2>Overall Summary</h2>
   <p> <em>Glee</em> is a teen drama televsion show that was released by FOX in 2009. This show featured Lea Michele, Cory Monteith, Dianna Agron, Naya Rivera, Matthew Morrison, Jane Lynch, and many more. It had guests stars ranging from Demi Lovato, Britney Spears, John Stamos, and even Tyra Banks. It surrounded a glee club at William McKinley High challenging the status quo and their own person life struggles. Watchers get to live through the characters and undergo a drama-filled high school experience through the magic of music. </p>
+
+</body>
+</html>
