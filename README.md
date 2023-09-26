@@ -11,10 +11,10 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
 <h2> Select a Season </h2>
  <p align="center">
   <a href=#seasonone><img src="https://freesvg.org/img/1-01.png" width="230" height="250"></a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_2_%28set_f%29.png"width="230" height="250">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/3red.png"width="230" height="250"> <br>
-  <img src="https://github.com/aub3rey/Glee-is-the-BEST-show-EVER/assets/145702377/4a2b07f8-00fa-41a7-8bb1-726ef1acb32d"width="230" height="250">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Groningen_lijn_5.png"width="230" height="250"> 
+  <a href=#seasontwo><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_2_%28set_f%29.png"width="230" height="250"></a>
+  <a href=#seasonthree><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/3red.png"width="230" height="250"></a> <br>
+  <a href=#seasonfour><img src="https://github.com/aub3rey/Glee-is-the-BEST-show-EVER/assets/145702377/4a2b07f8-00fa-41a7-8bb1-726ef1acb32d"width="230" height="250"></a>
+  <a href=#seasonfive><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Groningen_lijn_5.png"width="230" height="250"></a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Linea_6.png" width="230" height="250">
 </p>
 <h2>What's It About</h2>
