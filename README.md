@@ -24,8 +24,8 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
     <p align="center">
  <img src="https://live.staticflickr.com/5573/15091558838_e3ee403936_b.jpg" width="500" height="350">
     </p>
-      <p>Season 1's main goal is to create what we know as "The Glee Club." We watch an average teacher, William Shuester, gain joy, or rather <em>glee</em>, from creating this club. We watch the club struggle to stay funded and sit in anticipation while watching them compete against their biggest rivals, Vocal Adrenaline.</p>
+      <p>Season 1's main goal is to create what we know as "The Glee Club." We watch an average teacher, William Shuester, gain joy, or rather <em>glee</em>, from creating this club. We also see an unlikely group of students become each others' founded family. As these students go through  m any life struggles, the audience watches how they each individually respond, and how they act as a group. We see students that start off as the main "bullies" become some the most loved characters and most loving people. But mostly, we watch the club struggle to stay funded and sit in anticipation while watching them compete against their biggest rivals at regionals, Vocal Adrenaline.</p>
 <h2>Season 2</h2>
-    
+    <p>In season 2, we watch the glee club we all know and love become slightly bigger and still hated. The students are growing older, and this shows in the storyline. The actual production of the show steps away from being very satirical and becomes more of a standard drama show. We feel less involved in their lives, while in season 1, the show felt more like we were someone in their school watching it all happen at once. Season 2 speaks out about the topics of alcohol, bullying, and even homelessness. <i>Glee</i> has always been known for not being afraid to talk about harsh topics, and this season is no different. We see the reappearance of Vocal Adrenaline and await to see the New Directions' performance at National, in New York.</p>
 </body>
 </html>
