@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <body>
 <h1>Why <em>Glee</em> Truly is a Cinematic Masterpiece</h1>
