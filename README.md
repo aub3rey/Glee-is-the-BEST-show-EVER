@@ -7,12 +7,12 @@
 A <b>total</b> review of the FOX's top show from 2009 to 2015.
 <h2> Select a Season </h2>
  <p align="center">
-  <a href=#seasonone><img src="https://freesvg.org/img/1-01.png" width="230" height="250"></a>
-  <a href=#seasontwo><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_2_%28set_f%29.png"width="230" height="250"></a>
-  <a href=#seasonthree><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/3red.png"width="230" height="250"></a> <br>
-  <a href=#seasonfour><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Icon_4_%28set_yellow%29.png"width="230" height="250"></a>
-  <a href=#seasonfive><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Groningen_lijn_5.png"width="230" height="250"></a>
-  <a href=#seasonsix><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Linea_6.png" width="230" height="250"></a>
+  <a href=#seasonone> <img src="https://freesvg.org/img/1-01.png" width="230" height="230"> </a>
+  <a href=#seasontwo> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_2_%28set_f%29.png"width="230" height="230"> </a>
+  <a href=#seasonthree> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/3red.png"width="230" height="230"> </a> <br>
+  <a href=#seasonfour> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Icon_4_%28set_yellow%29.png"width="230" height="230"> </a>
+  <a href=#seasonfive> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Groningen_lijn_5.png"width="230" height="230"> </a>
+  <a href=#seasonsix> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Linea_6.png" width="230" height="230"> </a>
 </p>
 <h2>What's It About</h2>
   <p> <a href="https://glee.fandom.com/wiki/Glee_(TV_Series)" target="_blank"><em>Glee</em></a> is a teen drama television show that was released by FOX in 2009. This show featured Lea Michele, Cory Monteith, Dianna Agron, Naya Rivera, Matthew Morrison, Jane Lynch, and many more. It had guest stars ranging from Demi Lovato, Britney Spears, John Stamos, and even Tyra Banks. It surrounds a glee club at William McKinley High challenging the status quo and their personal life struggles. Watchers get to live through the characters and undergo a drama-filled high school experience through the magic of music. </p>
