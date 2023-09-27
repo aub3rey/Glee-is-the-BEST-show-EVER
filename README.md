@@ -6,7 +6,7 @@
 <br>
 A <b>total</b> review of the FOX's top show from 2009 to 2015.
 <h2> Select a Season </h2>
- <p align="center">
+<p align="center">
   <a href=#seasonone> <img src="https://freesvg.org/img/1-01.png" width="230" height="230"> </a>
   <a href=#seasontwo> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_2_%28set_f%29.png"width="230" height="230"> </a>
   <a href=#seasonthree> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/3red.png"width="230" height="230"> </a> <br>
