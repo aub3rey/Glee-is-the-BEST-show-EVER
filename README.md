@@ -47,7 +47,7 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
 <div id="seasonsix">
 <h2>Season 6</h2>
 <p align="center"><img src="https://live.staticflickr.com/3708/13389089495_1838b123c1_b.jpg" weight="500" height="350"></p>
-<p></p>
+<p>The last season of <i>Glee</i>. This show has many things to do to finish its final season. We have to finsih stoyrlines, talk about the glee club ending, talk about how it's going to come back, and most importantly, introduce new characters. That is right; a show with multiple characters, so many that you can't possibly name them all</p>
 </div>
 </body>
 </html>
