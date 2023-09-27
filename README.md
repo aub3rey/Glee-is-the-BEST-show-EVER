@@ -10,12 +10,12 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
 <div id="select">
 <h2> Select a Season </h2>
 <p align="center">
-  <a href=#seasonone> <img src="https://freesvg.org/img/1-01.png" width="230" height="230"> </a>
-  <a href=#seasontwo> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_2_%28set_f%29.png" width="230" height="230"> </a>
-  <a href=#seasonthree> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/3red.png" width="230" height="230"> </a> <br>
-  <a href=#seasonfour> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Icon_4_%28set_yellow%29.png" width="230" height="230"> </a>
-  <a href=#seasonfive> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Groningen_lijn_5.png" width="230" height="230"> </a>
-  <a href=#seasonsix> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Linea_6.png" width="230" height="230"> </a>
+  <a href="#seasonone"> <img src="https://freesvg.org/img/1-01.png" width="230" height="230"> </a>
+  <a href="#seasontwo"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_2_%28set_f%29.png" width="230" height="230"> </a>
+  <a href="#seasonthree"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/3red.png" width="230" height="230"> </a> <br>
+  <a href="#seasonfour"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Icon_4_%28set_yellow%29.png" width="230" height="230"> </a>
+  <a href="#seasonfive"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Groningen_lijn_5.png" width="230" height="230"> </a>
+  <a href="#seasonsix"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Linea_6.png" width="230" height="230"> </a>
 </p>
 </div>
 <h2>What's It About</h2>
