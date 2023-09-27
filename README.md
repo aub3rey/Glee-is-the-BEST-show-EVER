@@ -34,7 +34,7 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
 </div>
 <div id="seasonthree">
 <h2>Season 3</h2> <p align="center"> <img src="https://live.staticflickr.com/1857/43593505835_de778a28c8_b.jpg" width="500" height="350"> </p>
-<p>Season 3 is the peak of the show. We watch the kids deal with graduation or deal with their friends leaving. This is their last chance to prove themselves. This season speaks out on racial stereotypes, outing someone, and teen marriages. This season is definitely a fan favorite, as it has a lot of fan requests in it, due to the writers wanting to please the fandom. Season 3 showcases the biggest win of them all, <b>Nationals</b>! This epic win leads to the school finally accepting them, even seen in the beginning of seaons 4. In the last episode, we have to say goodbye to the majority of the main cast, as they are graduating and moving out. Despite this bittersweet ending, there is still happiness and hope for the next season.</p>
+<p>Season 3 is the peak of the show. We watch the kids deal with graduation or deal with their friends leaving. This is their last chance to prove themselves. This season speaks out on racial stereotypes, outing someone, and teen marriages. This season is definitely a fan favorite, as it has a lot of fan requests in it, due to the writers wanting to please the fandom. Season 3 showcases the biggest win of them all, <b>Nationals</b>! This epic win leads to the school finally accepting them, even seen at the beginning of season 4. In the last episode, we have to say goodbye to the majority of the main cast, as they are graduating and moving out. Despite this bittersweet ending, there is still happiness and hope for the next season.</p>
 </div>
 <div id="seasonfour">
 <h2>Season 4</h2>
