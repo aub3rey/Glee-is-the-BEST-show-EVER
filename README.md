@@ -47,7 +47,16 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
 <div id="seasonsix">
 <h2>Season 6</h2>
 <p align="center"><img src="https://live.staticflickr.com/3708/13389089495_1838b123c1_b.jpg" weight="500" height="350"></p>
-<p>The last season of <i>Glee</i>. This show has many things to do to finish its final season. We have to finsih stoyrlines, talk about the glee club ending, talk about how it's going to come back, and most importantly, introduce new characters. That is right; a show with multiple characters, so many that you can't possibly name them all</p>
+<p>The last season of <i>Glee</i>. This show has many things to do to finish its final season. We have to finish stoyrlines, talk about the glee club ending, talk about how it's going to come back, and most importantly, introduce new characters. That's right; a show with multiple characters, so many that you can't possibly name them all created more characters. After the glee club ended, all the glee students were sent away, except for Kitty Wilde. Rachel Berry, after her show failing, returned to McKinley and used the leftover money she had to revive the glee club to what it used to be, to what gave her <i>glee</i>. We watch Rachel create a team good e nough to go against her old friends, Will and Blaine, who are now coaching Vocal Adrenaline and the Warblers, respectfully. This season seems rushed to many viewers, but it was because thewre was a lot that needed to be addressed. In season six, the writers knew it would be the last, so they wanted to incorporate as many of the fans' wishes as they possibly could, even went to the extent of a double wedding. Many things happen that seem unrealistic, but that was them reaching back to the satirical aspect of season one that everyone loved. Overall, season six was a perfect ending to the perfect show. "And that's what you missed on <i>Glee</i>."</p>
 </div>
+<div id="sources">
+<h6>Sources:
+  <ul>
+    <li><a href="https://glee.fandom.com/wiki/Glee_Wiki">Glee Wiki for information</a></li>
+    <li><a href="https://freesvg.org/">Number 1</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/Main_Page">Other Numbers</a></li>
+    <li><a href="https://www.flickr.com/">Other Images</a></li>
+  </ul>
+</h6>
 </body>
 </html>
