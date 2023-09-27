@@ -50,9 +50,9 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
 <div id="sources">
 <h6>Sources:
   <ul>
-    <li><a href="https://glee.fandom.com/wiki/Glee_Wiki">Glee Wiki for information</a></li>
-    <li><a href="https://freesvg.org/">Number 1</a></li>
-    <li><a href="https://commons.wikimedia.org/wiki/Main_Page">Other Numbers</a></li>
-    <li><a href="https://www.flickr.com/">Other Images</a></li>
+    <li><a href="https://glee.fandom.com/wiki/Glee_Wiki" target="_blank">Glee Wiki for Information</a></li>
+    <li><a href="https://freesvg.org/" target="_blank">Number 1</a></li>
+    <li><a href="https://commons.wikimedia.org/wiki/Main_Page" target="_blank">Other Numbers</a></li>
+    <li><a href="https://www.flickr.com/" target="_blank">Other Images</a></li>
   </ul>
 </h6>
