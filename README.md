@@ -13,9 +13,9 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
   <a href=#seasonone><img src="https://freesvg.org/img/1-01.png" width="230" height="250"></a>
   <a href=#seasontwo><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Icon_2_%28set_f%29.png"width="230" height="250"></a>
   <a href=#seasonthree><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/3red.png"width="230" height="250"></a> <br>
-  <a href=#seasonfour><img src="https://github.com/aub3rey/Glee-is-the-BEST-show-EVER/assets/145702377/4a2b07f8-00fa-41a7-8bb1-726ef1acb32d"width="230" height="250"></a>
+  <a href=#seasonfour><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Icon_4_%28set_yellow%29.png"width="230" height="250"></a>
   <a href=#seasonfive><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Groningen_lijn_5.png"width="230" height="250"></a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Linea_6.png" width="230" height="250">
+  <a href=#seasonsix><img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Linea_6.png" width="230" height="250"></a>
 </p>
 <h2>What's It About</h2>
   <p> <a href="https://glee.fandom.com/wiki/Glee_(TV_Series)" target="_blank"><em>Glee</em></a> is a teen drama television show that was released by FOX in 2009. This show featured Lea Michele, Cory Monteith, Dianna Agron, Naya Rivera, Matthew Morrison, Jane Lynch, and many more. It had guest stars ranging from Demi Lovato, Britney Spears, John Stamos, and even Tyra Banks. It surrounds a glee club at William McKinley High challenging the status quo and their personal life struggles. Watchers get to live through the characters and undergo a drama-filled high school experience through the magic of music. </p>
@@ -37,8 +37,18 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
 </div>
 <div id="seasonfour">
 <h2>Season 4</h2>
-<p align="center"><img src="" weight="500" height="350"></p>
-<p>In season 4, we see the characters go through the struggles of college in New York, but we also see the glee club struggle with filling the places of the graduated students, especially Rachel Berry's seat. The show introduces some new characters, mostly to replace the lost ones. We see the glee club being very accepted at school, and the kids don't want to change this, so they become what they fear, <b>bullies</b>. In this season, McKinley has their first real musical, <i>Grease</i>, and the graduated kids have their first big breakup, where 2 couple sbreak up on the same day, at the same time, and sing the same song. This season is one of the ones that fans think is unnecessary, many think it should've ended after season 3, but it does start the beginning of the end for the ungraduated kids that we met in seasons 1, 2, and 3. The timeline, however, is very confusing, as most seasons are  for 1 school year in length, but this season seems to stop at a random time. The switch off to New York and then to Lima, Ohio is very weird and confuses many watchers.</p>
+<p align="center"><img src="https://live.staticflickr.com/7811/47243629461_124c55ef63_b.jpg" weight="300" height="350"></p>
+<p>In season 4, we see the characters go through the struggles of college in New York, but we also see the glee club struggle with filling the places of the graduated students, especially Rachel Berry's seat. The show introduces some new characters, mostly to replace the lost ones. We see the glee club being very accepted at school, and the kids don't want to change this, so they become what they fear, <b>bullies</b>. In this season, McKinley has their first real musical, <i>Grease</i>, and the graduated kids have their first big breakup, where 2 couple sbreak up on the same day, at the same time, and sing the same song. This season is one of the ones that fans think is unnecessary, many think it should've ended after season 3, but it does start the beginning of the end for the ungraduated kids that we met in seasons 1, 2, and 3. The timeline, however, is very confusing, as most seasons are  for 1 school year in length, but this season seems to stop at a random time. The switch off to New York and then to Lima, Ohio is very weird and confuses many watchers. In this season, topics of body dysphoria, school shootings, and guilty pleasures are talked about. Since, this season isn't like the others, let's move on to season 5.</p>
+</div>
+<div id="seasonfive">
+<h2>Season 5</h2>
+<p align="center"><img src="https://live.staticflickr.com/1933/43106989420_4ba31b5ea4_b.jpg" weight="500" height="350"></p>
+<p>Season 5 has many things happening at once. The college kids are still in New York, but Rachel goes to Broadway. She drops out of her college, NYADA, but later regrets it. The glee kids at school are getting ready for Nationals in Los Angeles, where we get an update on Mercedes, a rising pop star. We get the 100th episode!!! In this episode,  there are many callbacks to previous episodess to commemorate the occasion. But the most important part of this season, is episode 3, "The Quarterback." This is a heartbreaking episode made in dedication to Finn Hudson, played by the late Cory Monteith. In 2013, Cory Monteith passed away, and in the show, so did  Finn. The decided to express their grief in the best way they can, singing. This episode does a great job of recognizing how parents, friends, and family feel when a tragic event like this happens. This season ends with Rachel Berry moving from Broadway into her own show. The glee club has been disbanded, due to their loss at Nationals, and Will is working with Vocal Adrenaline. Many other fans think it should've ended here, but I think season six is a better ending.</p>
+</div>
+<div id="seasonsix">
+<h2>Season 6</h2>
+<p align="center"><img src="https://live.staticflickr.com/3708/13389089495_1838b123c1_b.jpg" weight="500" height="350"></p>
+<p></p>
 </div>
 </body>
 </html>
