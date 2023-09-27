@@ -1,5 +1,3 @@
-<html>
-  <body>
 <h1>Why <em>Glee</em> Truly is a Cinematic Masterpiece</h1>
 <br>
 <p align="center">
@@ -58,5 +56,3 @@ A <b>total</b> review of the FOX's top show from 2009 to 2015.
     <li><a href="https://www.flickr.com/">Other Images</a></li>
   </ul>
 </h6>
-</body>
-</html>
